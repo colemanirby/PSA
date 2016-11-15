@@ -1,0 +1,7 @@
+com\psa\security\config\WebAppInitializer.class
+com\psa\domain\users\User.class
+com\psa\security\config\MvcConfig.class
+com\psa\security\config\WebSecurity.class
+com\psa\security\config\SpringMvcInitializer.class
+com\psa\mvc\controller\MvcController.class
+com\psa\security\config\SecurityWebApplicationInitializer.class
